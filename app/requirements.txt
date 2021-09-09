@@ -1,0 +1,5 @@
+FastAPI
+uvicorn
+passlib
+python-jose
+python-multipart
